@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rishabcj.github.io/rishi-portfolio/static/css/main.39e406f2.css",
-    "main.js": "/rishabcj.github.io/rishi-portfolio/static/js/main.479b6cfc.js",
-    "static/js/592.ae83c5ca.chunk.js": "/rishabcj.github.io/rishi-portfolio/static/js/592.ae83c5ca.chunk.js",
-    "index.html": "/rishabcj.github.io/rishi-portfolio/index.html",
-    "main.39e406f2.css.map": "/rishabcj.github.io/rishi-portfolio/static/css/main.39e406f2.css.map",
-    "main.479b6cfc.js.map": "/rishabcj.github.io/rishi-portfolio/static/js/main.479b6cfc.js.map",
-    "592.ae83c5ca.chunk.js.map": "/rishabcj.github.io/rishi-portfolio/static/js/592.ae83c5ca.chunk.js.map"
+    "main.css": "/rishi-portfolio/static/css/main.39e406f2.css",
+    "main.js": "/rishi-portfolio/static/js/main.5ed0a26c.js",
+    "static/js/592.ae83c5ca.chunk.js": "/rishi-portfolio/static/js/592.ae83c5ca.chunk.js",
+    "index.html": "/rishi-portfolio/index.html",
+    "main.39e406f2.css.map": "/rishi-portfolio/static/css/main.39e406f2.css.map",
+    "main.5ed0a26c.js.map": "/rishi-portfolio/static/js/main.5ed0a26c.js.map",
+    "592.ae83c5ca.chunk.js.map": "/rishi-portfolio/static/js/592.ae83c5ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39e406f2.css",
-    "static/js/main.479b6cfc.js"
+    "static/js/main.5ed0a26c.js"
   ]
 }
